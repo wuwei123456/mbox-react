@@ -8,9 +8,10 @@ Supports ES6 and JSX compilation through babel.
 * To use MobX with create-react-app and decorators, [react-app-rewired](https://github.com/timarney/react-app-rewired/tree/master/packages/react-app-rewire-mobx) or this example using [custom-react-scripts](https://github.com/codylindley/mobx-react) -->
 
 三个小例子
-*counter
-*todolist
-*购物车
+
+* counter
+* todolist
+* 购物车
 
 ### Run the example
 
