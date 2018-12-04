@@ -1,0 +1,12 @@
+import { observable } from "mobx";
+
+// 最开始都为false
+export default class TodoModel {
+  id = Math.random();
+  @observable title;
+  @observable finished = false;
+
+  constructor(title) {
+    this.title = title;
+  }
+}
